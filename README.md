@@ -1,2 +1,2 @@
 # SilentRAR
-[XPOSED MODULE] Block subscription dialog in RAR
+Block subscription dialog in RAR
